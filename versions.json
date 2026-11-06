@@ -275,7 +275,80 @@
       "title": "FigCraft",
       "summary": "Interface design and prototyping",
       "repo": "storytold/figcraft",
-      "versions": {}
+      "versions": {
+        "0.2.0": {
+          "tag": "v0.2.0",
+          "file": "figcraft-0.2.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-srzgMwbI0uOm+XoYlFogwOxAiaRZMv7azm5MxXbOqpc="
+        },
+        "0.3.1": {
+          "tag": "v0.3.1",
+          "file": "figcraft-0.3.1-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-Z5jJizXxOMohQdnDXl1Ry9hdsQPuenbCs5w+ObEwA4I="
+        },
+        "0.4.0": {
+          "tag": "v0.4.0",
+          "file": "figcraft-0.4.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-fo94th4ZZDqrbpyDAN6wvWVMdyYukb6Kn9iOAe97nAc="
+        },
+        "0.5.0": {
+          "tag": "v0.5.0",
+          "file": "figcraft-0.5.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-+04/8pVvu8kPez1kei19DbbsVmYCvkm+1+Irl+L6WEE="
+        },
+        "0.5.1": {
+          "tag": "v0.5.1",
+          "file": "figcraft-0.5.1-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-7kSJCXTK2eZ67UOLzQP1y+/zUUn1SIh9exj+P4Ct9IQ="
+        },
+        "0.6.0": {
+          "tag": "v0.6.0",
+          "file": "figcraft-0.6.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-YA8RXdxtnnXwcgwNnFRJwVsz/eJ24IDwE7tEntHaRVM="
+        },
+        "0.7.0": {
+          "tag": "v0.7.0",
+          "file": "figcraft-0.7.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-M+JvmVLm9m6QclbFZhmo9168KmH8PHj8M5ba4hC9PIU="
+        },
+        "0.8.0": {
+          "tag": "v0.8.0",
+          "file": "figcraft-0.8.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-7PHPjuYKFQ2kplUlLKF/785yXi1EAn2zamCZQxmSe/I="
+        },
+        "0.9.0": {
+          "tag": "v0.9.0",
+          "file": "figcraft-0.9.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-kJWZ4OdhLX+FFE9oXYDiDShaMpX/psXBBrYL49nepYo="
+        },
+        "0.10.0": {
+          "tag": "v0.10.0",
+          "file": "figcraft-0.10.0-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-KPjv4Yd5SY4obOk+lEIFjw2xe0Vw4suSv1JsPnI0hOk="
+        },
+        "0.11.2": {
+          "tag": "v0.11.2",
+          "file": "figcraft-0.11.2-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-3ZLajZs+wln4HOozCLGzlhoFebQ37X9V6KClhGaoqYY="
+        },
+        "0.12.1": {
+          "tag": "v0.12.1",
+          "file": "figcraft-0.12.1-linux-x86_64.AppImage",
+          "bin": "figcraft",
+          "hash": "sha256-xSvgRte+pzeQ81hP/KbseTXfIprc6Pjkg7AyQu4qqx8="
+        }
+      }
     },
     "filmcraft": {
       "title": "FilmCraft",
