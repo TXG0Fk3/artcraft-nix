@@ -34,7 +34,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
         run: |
-          args=()
+          args=(--no-mirror)
           if [ "${{ inputs.bump-nixpkgs }}" = true ] || { [ "${{ github.event_name }}" = schedule ] && [ "$(date -u +%u)" = 1 ]; }; then
             args+=(--bump-nixpkgs)
           fi
