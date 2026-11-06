@@ -17,6 +17,7 @@ KNOWN_LIBS = {
     "libX11", "libX11-xcb", "libxcb", "libXcursor", "libXi",
     "libxkbcommon", "libxkbcommon-x11",
     "libXrender",
+    "libGL",
     "libfontconfig",
     "libva", "libva-drm",
     # NVIDIA driver libraries, found via /run/opengl-driver/lib.
