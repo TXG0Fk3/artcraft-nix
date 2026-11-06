@@ -271,6 +271,12 @@
         }
       }
     },
+    "figraft": {
+      "title": "FigCraft",
+      "summary": "Interface design and prototyping",
+      "repo": "storytold/figcraft",
+      "versions": {}
+    },
     "filmcraft": {
       "title": "FilmCraft",
       "summary": "Edit video, color and sound",
