@@ -13,6 +13,7 @@ let
     libxcb = pkgs.libxcb or pkgs.xorg.libxcb;
     libxcursor = pkgs.libxcursor or pkgs.xorg.libXcursor;
     libxi = pkgs.libxi or pkgs.xorg.libXi;
+    libxrender = pkgs.libxrender or pkgs.xorg.libXrender;
   };
 
   build = app: version:

@@ -25,6 +25,8 @@
   libxcursor,
   libxi,
   libxkbcommon,
+  libxrender,
+  fontconfig,
   libva,
   # from default.nix
   app,
@@ -69,6 +71,10 @@ stdenv.mkDerivation {
     libxi
     libxkbcommon
     libva
+    # LightCraft and PdfCraft query it for display information; FigCraft's
+    # text tool enumerates system fonts with it.
+    libxrender
+    fontconfig
   ];
   # NVIDIA's libcuda / libnvcuvid / libnvidia-encode (FilmCraft's NVDEC/NVENC)
   # ship with the driver, not nixpkgs; NixOS exposes them here. Elsewhere the
