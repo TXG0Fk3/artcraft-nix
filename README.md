@@ -14,6 +14,7 @@ working even if the upstream releases disappear.
 | FilmCraft | Premiere Pro | `filmcraft` |
 | EffectCraft | After Effects | `effectcraft` |
 | PdfCraft (formerly PrintCraft) | Acrobat | `pdfcraft` |
+| FigCraft | Figma | `figcraft` |
 
 Unofficial: not affiliated with the ArtCraft authors. x86_64-linux only for now.
 
