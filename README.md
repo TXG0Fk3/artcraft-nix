@@ -15,6 +15,12 @@ working even if the upstream releases disappear.
 | EffectCraft | After Effects | `effectcraft` |
 | PdfCraft (formerly PrintCraft) | Acrobat | `pdfcraft` |
 | FigCraft | Figma | `figcraft` |
+| CadCraft | AutoCAD | `cadcraft` |
+| DeckCraft | PowerPoint | `deckcraft` |
+| GridCraft | Excel | `gridcraft` |
+| SoundCraft | Pro Tools | `soundcraft` |
+| WordCraft | Word | `wordcraft` |
+| TextureCraft | Substance 3D Painter | `texturecraft` |
 
 Unofficial: not affiliated with the ArtCraft authors. x86_64-linux only for now.
 
