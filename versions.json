@@ -1277,6 +1277,12 @@
           "file": "pdfcraft-0.21.1-linux-x86_64.AppImage",
           "bin": "pdfcraft",
           "hash": "sha256-cwJ2zamt2z1I8mxgJobRj8W8Dr42CmCi9SLXDP1CjSE="
+        },
+        "0.22.0": {
+          "tag": "v0.22.0",
+          "file": "pdfcraft-0.22.0-linux-x86_64.AppImage",
+          "bin": "pdfcraft",
+          "hash": "sha256-dx9hsHqvjMF+c8sfk/vohSbyewqoL/MtBxDiw3X0kkg="
         }
       }
     },
